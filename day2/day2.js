@@ -42,4 +42,4 @@ function foo() {
   return {part1, part2};
 }
 
-console.log("part1: ", foo());
+console.log(foo());
